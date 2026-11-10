@@ -97,15 +97,6 @@ Ese trabajo con infraestructura y control de accesos me llevó a la **cibersegur
 ### ⚙️ &nbsp;Estadísticas de GitHub
 
 <p align="center">
-  <a href="https://github.com/Dukeeee21">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dukeeee21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://github.com/Dukeeee21">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dukeeee21&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dukeeee21&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
 </p>
 
